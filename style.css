@@ -1,0 +1,24 @@
+#lista{
+    text-decoration: underline;
+    width: 100;
+    display: block;
+    background: lightblue;
+    max-width: 100;
+    text-align: center;
+    padding: 30px;
+    font-size: xx-large;
+    float: center;
+}
+
+#lista:hover > a {
+    background: rgb(131, 131, 218);
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+#bailando {
+    margin: auto;
+}
